@@ -18,9 +18,11 @@ The goal is to:
 2. Download the PCL 1.8.0 Visual Studio 2013 x86 installer
 [here](
 https://onedrive.live.com/?authkey=%21ANl0c3A-90fFJ8k&cid=EC9EBB2646FF189A&id=EC9EBB2646FF189A%2151752&parId=EC9EBB2646FF189A%2151744&action=locate).
-3. Install CMake version > 3.1.0
-4. Generate a new project using CMake
-5. Move OpenNI.dll to the solution directory
+3. Install using default settings. This way CMake will automatically find out where the headers, libraries and Dlls are.
+4. Install CMake version > 3.1.0
+5. Generate a new project using CMake
+6. Move OpenNI.dll to the solution directory
+7. Open the project in Visual Studio 2013, build and run it.
 
 ## Usage
 
